@@ -9,4 +9,4 @@ INDEX:
 6. Third classification - (Dealing with Imbalance binary data and running classification model)
 
 
-1. Data and 
+
